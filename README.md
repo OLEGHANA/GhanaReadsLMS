@@ -1,1 +1,1 @@
-# GhanaReadsLMS
+# Ghana Reads LMS
